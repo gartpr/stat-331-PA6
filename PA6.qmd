@@ -3,7 +3,7 @@ title: "blahbhh"
 format: html
 editor: visual
 self-contained: true
-authors: "gart"
+authors: "gart, lrfonda"
 ---
 
 ## Quarto
