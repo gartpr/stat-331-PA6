@@ -3,7 +3,6 @@ title: "blahbhh"
 format: html
 editor: visual
 self-contained: true
-author: "Garrett, Lucas"
 ---
 
 ## Quarto
